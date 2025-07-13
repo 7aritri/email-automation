@@ -38,7 +38,7 @@ I just wanted to drop you a quick note to remind you that {amount} USD with resp
 I would be really grateful if you confirm that everything is on track for payment.
 
 Best regards,
-PLUMCAKE
+PLUM
 """
     )
     try:
@@ -57,8 +57,8 @@ if __name__ == "__main__":
     # Compose the email
     email_message = send_email(
         subject="Invoice Reminder",
-        receiver_email="intechspace@gmail.com",
-        name="MEAWWW",
+        receiver_email="i@gmail.com",
+        name="k",
         due_date="11, Aug 2022",
         invoice_no="INV-21-12-009",
         amount="5", 
