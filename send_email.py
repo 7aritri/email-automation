@@ -58,7 +58,11 @@ if __name__ == "__main__":
     email_message = send_email(
         subject="Invoice Reminder",
         receiver_email="i@gmail.com",
+<<<<<<< HEAD
         name="k",
+=======
+        name="MEAWWW",
+>>>>>>> 685062c (l)
         due_date="11, Aug 2022",
         invoice_no="INV-21-12-009",
         amount="5", 
