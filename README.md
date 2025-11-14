@@ -1,4 +1,6 @@
 
+
+```markdown
 # Email Automation 🚀
 
 An email automation tool built with Python that helps you send, schedule, and manage emails more efficiently.
@@ -114,13 +116,5 @@ This project is a strong portfolio piece for:
 * Python libraries/tools (real-world I/O, network calls)
 * Interview discussions around email protocols, scheduling logic, and design decisions
 * Showcasing initiative: “I built an end-to-end tool for a common business need”
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Please open an issue or submit a pull-request for improvements, bug fixes, or new features.
-
-
-
 
 
