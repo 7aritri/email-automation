@@ -32,7 +32,7 @@ email-automation/
 1. Clone the repository:  
    ```bash
    git clone https://github.com/7aritri/email-automation.git
-````
+```
 
 2. Navigate into the project directory:
 
