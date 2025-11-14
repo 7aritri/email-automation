@@ -1,6 +1,4 @@
 
-
-```markdown
 # Email Automation 🚀
 
 An email automation tool built with Python that helps you send, schedule, and manage emails more efficiently.
@@ -23,7 +21,7 @@ email-automation/
 │── README.md
 │── requirements.txt
 
-````
+```
 
 ## 🧰 Requirements
 - Python 3.8 or above  
